@@ -1,4 +1,3 @@
-import 'package:http/http.dart';
 import 'package:www/models/news_channel_headlines_model.dart';
 import 'package:www/repos/news_repo.dart';
 
